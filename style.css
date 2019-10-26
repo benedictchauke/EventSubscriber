@@ -4,7 +4,10 @@ html {
 }
 
 body {
-	font-family: 'Montserrat', sans-serif;
+	background-size: cover;
+    height: 100%;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
 }
 
 hr {
